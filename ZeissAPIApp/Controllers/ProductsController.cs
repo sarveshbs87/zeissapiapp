@@ -82,7 +82,7 @@ namespace ZeissAPIApp.Controllers
             return Ok(result);
 
         }
-
+        //test
         [HttpPut]
         [Route("decrement-stock/{id}/{quantity}")]
         public async Task<IActionResult> DecrementStock(string id, int quantity)
