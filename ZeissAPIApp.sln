@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeissAPIApp", "ZeissAPIApp\ZeissAPIApp.csproj", "{9FE85F76-5BB1-487B-B661-3B4B7BC703B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductApi.Tests", "ProductApi.Tests\ProductApi.Tests.csproj", "{39B83C40-69A1-497A-BB05-414D3F70C45A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE85F76-5BB1-487B-B661-3B4B7BC703B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE85F76-5BB1-487B-B661-3B4B7BC703B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE85F76-5BB1-487B-B661-3B4B7BC703B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE85F76-5BB1-487B-B661-3B4B7BC703B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39B83C40-69A1-497A-BB05-414D3F70C45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B83C40-69A1-497A-BB05-414D3F70C45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B83C40-69A1-497A-BB05-414D3F70C45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B83C40-69A1-497A-BB05-414D3F70C45A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
